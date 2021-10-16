@@ -1,7 +1,5 @@
 # my-repo
 
-## V1
-
 ### develop
 
 - commit-1
